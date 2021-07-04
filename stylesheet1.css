@@ -1,0 +1,115 @@
+h1 {
+	font-family: "Lucida Console", monospace;
+	color:black;	
+}
+
+header {
+	background-color: white;
+	line-height: 16px;
+	margin-top: 5px;
+}
+
+#titolo { 
+	padding: 70px;
+}
+
+#sottotitolo {
+	margin-left: 30px;
+}
+
+body { 
+	background-color: #e6e6e6;
+}
+
+h4 { 
+	font-family: "Lucida Console", monospace;
+	color:black;		
+}
+
+h3{
+	font-family: "Lucida Console", monospace;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  font-family: "Lucida Console", monospace;
+  font-size: 13px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.active {
+	background-color: #d9d9d9
+}
+
+#navprogetto {
+	text-align: right;
+}
+
+section, article {
+	background-color: white;
+	float: left;
+	width: 75%;
+	margin: 20px;
+	margin-bottom: 20px
+}
+
+#titoloitem {
+	margin-top: 15px; 
+	padding-left: 10px;
+	padding-top: 15px;
+	padding-bottom: 1px;
+
+}
+
+#sottotitoloitem {
+	padding-left: 12px;
+}
+
+p {
+	font-family: "Helvetica", sans-serif;
+	line-height: 2px;
+	padding-left: 15px;
+}
+
+#aside1, #aside2, #aside3 {	
+	float: left;
+	width: 25%; 
+	padding-left: 20px; 
+}
+
+aside {
+	background-color: white;
+	padding: 20px;
+	margin: 20px;
+}
+
+.pagination {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+img {
+	background-color: #bfbfbf
+}
+
+footer {
+	
+}
